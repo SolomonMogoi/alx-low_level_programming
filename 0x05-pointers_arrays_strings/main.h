@@ -1,4 +1,6 @@
-[200~#ifndef MAIN_H
+#ifndef main_h
+#define main
+#ifndef MAIN_H
 #define MAIN_H
 
 #include <stdio.h>
@@ -17,4 +19,5 @@ void print_array(int *a, int n);
 char *_strcpy(char *dest, char *src);
 
 #endif
+
 
