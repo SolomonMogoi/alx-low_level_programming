@@ -1,5 +1,3 @@
-#ifndef main_h
-#define main
 #ifndef MAIN_H
 #define MAIN_H
 
